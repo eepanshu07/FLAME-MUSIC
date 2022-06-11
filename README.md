@@ -2,7 +2,7 @@
 
 ### ғʟᴀᴍᴇ ᴠᴄ ᴘʟᴀᴇʀ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/flame_Updates"><img src="https://telegra.ph/file/2c23f012984fa91267146.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/STD_UPDATE"><img src="https://te.legra.ph/file/0adc02600a8c7d80808e3.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
@@ -78,7 +78,7 @@
 <details>
     <summary><b> Detailed Heroku Depoyment Process » </b></summary>
 
-<img src="https://telegra.ph/file/97e6de197eba98d2caba5.jpg" align="right" width="350" height="700"/>
+<img src="https://te.legra.ph/file/0adc02600a8c7d80808e3.jpg" align="right" width="350" height="700"/>
 
 ### 🚀 Deploy Process
 - Click on the deploy button above and login to your [heroku account](https://heroku.com/login) .
@@ -149,7 +149,7 @@ $ python3 main.py
 
 <p align="center">𝐒𝐮𝐩𝐩𝐨𝐫𝐭 / 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ----> </p>
 
-<p align="center"><a href="https://t.me/Flame_Project"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-🇸𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
-<p align="center"><a href="https://t.me/Flame_Updates"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-🇺𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/best_friends_chat_group"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-🇸𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/STD_UPDATE"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-🇺𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
 
 #
